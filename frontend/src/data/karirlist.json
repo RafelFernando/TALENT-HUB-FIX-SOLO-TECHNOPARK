@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Tasya R.A",
+    "pekerjaan": "Graphic Designer",
+    "komentar": "Lowongannya beneran relevan, tidak perlu scroll ribuan yang gk nyambung",
+    "image": "febri.png"
+  },
+
+  {
+    "id": 2,
+    "name": "Angela",
+    "pekerjaan": "UI/UX Designer",
+    "komentar": "Sangat membantu dalam menemukan pekerjaan yang sesuai.",
+    "image": "febri.png"
+  },
+  {
+    "id": 3,
+    "name": "Budi",
+    "pekerjaan": "Web Developer",
+    "komentar": "Sangat membantu dalam menemukan pekerjaan yang sesuai.",
+    "image": "febri.png"
+  },
+  {
+    "id": 4,
+    "name": "Rafael",
+    "pekerjaan": "Software Engineer",
+    "komentar": "Sangat membantu dalam menemukan pekerjaan yang sesuai.",
+    "image": "febri.png"
+    },
+{
+    "id": 5,
+    "name": "Budi",
+    "pekerjaan": "Web Developer",
+    "komentar": "Sangat membantu dalam menemukan pekerjaan yang sesuai.",
+    "image": "febri.png"
+  }
+]
